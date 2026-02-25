@@ -1,4 +1,4 @@
-# Cryptography RAG System (Backend Only)
+# RAG System 
 
 A fully containerized Retrieval-Augmented Generation (RAG) system built
 using:
